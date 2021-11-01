@@ -4,6 +4,8 @@
  Each codelab is reflected in the project [TODO]()
 
 # Completed
+- Navigation
+    - [Learn Jetpack Navigation](https://developer.android.com/codelabs/android-navigation?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
 
 # Planned
 - Jetpack Compose
@@ -19,9 +21,6 @@
     - [Android Kotlin Fundamentals: WorkManager](https://developer.android.com/codelabs/kotlin-android-training-work-manager?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
     - [Advanced WorkManager](https://developer.android.com/codelabs/android-adv-workmanager?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
     - [Background work with WorkManager - Kotlin](https://developer.android.com/codelabs/android-workmanager?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
-
-- Navigation
-    - [Learn Jetpack Navigation](https://developer.android.com/codelabs/android-navigation?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
 
 - Pagination
     - [Android Paging](https://developer.android.com/codelabs/android-paging?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
