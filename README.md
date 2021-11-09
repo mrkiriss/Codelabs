@@ -6,6 +6,10 @@
 # Completed
 - Navigation
     - [Learn Jetpack Navigation](https://developer.android.com/codelabs/android-navigation?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
+	
+- Testing
+    - [Advanced Android in Kotlin 05.1: Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
+
 
 # Planned
 - Coroutines/KotlinFlow/LiveData
@@ -13,7 +17,7 @@
     - [Learn advanced coroutines with Kotlin Flow and LiveData](https://developer.android.com/codelabs/advanced-kotlin-coroutines?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
 
 - Testing
-    - [Advanced Android in Kotlin 05.1: Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
+    - [Advanced Android in Kotlin 05.2: Introduction to Test Doubles and Dependency Injection](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles#0)
     - [Advanced Android in Kotlin 05.3: Testing Coroutines and Jetpack integrations](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey#0)
 
 - Graphics
